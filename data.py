@@ -102,6 +102,7 @@
 #     }
 # ]
 
+# trying to random questions b using the api or url method.
 import requests
 
 parameters = {
